@@ -1,2 +1,0 @@
-# nodeFirstLesson
-Created with CodeSandbox
